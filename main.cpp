@@ -5,20 +5,21 @@
  */
 
 /* 
- * File:   main.c
+ * File:   main.cpp
  * Author: rafael
  *
- * Created on 10 de Junho de 2016, 10:17
+ * Created on 10 de Junho de 2016, 10:29
  */
 
-#include <stdio.h>
-#include <stdlib.h>
+#include <cstdlib>
+
+using namespace std;
 
 /*
  * 
  */
 int main(int argc, char** argv) {
 
-    return (EXIT_SUCCESS);
+    return 0;
 }
 
